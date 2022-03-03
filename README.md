@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @connorpassingby
-- 👀 I’m interested in ... full-stack and video game development
-- 🌱 I’m currently learning ... computer science at collegeg
-- 💞️ I’m looking to collaborate on ... whatever and whichever
+- 👀 I’m interested in full-stack and video game development
+- 🌱 I’m currently learning bscs at college
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ... 
 
 <!---
